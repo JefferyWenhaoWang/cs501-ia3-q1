@@ -69,12 +69,8 @@ This screen demonstrates:
 ---
 
 ## AI Disclosure
-I used ChatGPT as a coding assistant for:
-- planning the Compose layout structure (Row/Column nesting)
-- debugging Compose errors and modifier usage
-- refining UI consistency and README documentation
+I used ChatGPT as a coding assistant for debugging Compose errors and modifier usage
 
-All code was reviewed, edited, and tested by me before submission.
 
 ---
 
